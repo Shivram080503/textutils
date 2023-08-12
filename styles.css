@@ -1,0 +1,27 @@
+.lg{
+    background-color: rgb(136, 250, 101);
+}
+
+.news{
+    height: 50%;
+    width: 100%;
+}
+
+.set{
+    height: 50%;
+
+}
+.mt{
+    margin-top: 1px;
+}
+.carousel-inner {
+    height: 40vh;
+}
+.carousel-caption.d-none.d-md-block {
+    top: 8.6rem;
+}
+.progress{
+    --bs-progress-height: 0.1rem;
+    --bs-progress-bar-bg: #ed08089c;
+
+}
